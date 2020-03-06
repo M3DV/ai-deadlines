@@ -1,27 +1,6 @@
 
 ---
 
-- name: MICCAI abstract
-  year: 2020
-  id: miccai2020-abs
-  link: https://www.miccai2020.org/
-  deadline: "2020-03-03 23:59:00"
-  timezone: US/Pacific
-  date: Oct 4 - 8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
-
-- name: ECCV
-  year: 2020
-  id: eccv20
-  link: https://eccv2020.eu
-  deadline: "2020-03-05 07:00:00"
-  timezone: Europe/London
-  date: August 23-28, 2020
-  place: Glasgow, Scotland, UK
-  sub: CV
-
 - name: MICCAI
   year: 2020
   id: miccai2020
@@ -43,20 +22,30 @@
   place: McCormick Place, Chicago, Illinois
   sub: MIC
 
-- name: NeurIPS (TBD)
+- name: NeurIPS abstract
+  year: 2020
+  id: neurips2020-abstract
+  link: https://nips.cc/
+  deadline: "2020-05-05 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: NeurIPS
   year: 2020
   id: neurips2020
   link: https://nips.cc/
-  deadline: "2020-05-16 18:00:00"
+  deadline: "2020-05-12 13:00:00"
   timezone: US/Pacific
-  date: TBD
-  place: TBD
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
 
-- name: TMI call for Annotation-Efficient Deep Learning for Medical Imaging
+- name: TMI call for Annotation-Efficient Deep Learning
   year: 2020
   id: tmi-si
-  link: assets/Special_Issue_CFP_tmi.pdf
+  link: https://ieee-tmi.org/Special_Issue_CFP_DL4MI.pdf
   deadline: "2020-07-01 23:59:59"
   timezone: UTC
   date: Dec 15, 2020
@@ -435,3 +424,24 @@
   date: Oct 4 - 8, 2020
   place: San Miguel, Lima, Peru
   sub: MIC
+
+- name: MICCAI abstract
+  year: 2020
+  id: miccai2020-abs
+  link: https://www.miccai2020.org/
+  deadline: "2020-03-03 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: ECCV
+  year: 2020
+  id: eccv20
+  link: https://eccv2020.eu
+  deadline: "2020-03-05 07:00:00"
+  timezone: Europe/London
+  date: August 23-28, 2020
+  place: Glasgow, Scotland, UK
+  sub: CV
