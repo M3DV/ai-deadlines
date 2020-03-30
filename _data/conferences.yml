@@ -44,7 +44,7 @@
 
 - name: TMI call for COVID-19 (1-year submission)
   year: 2020
-  id: tmi-si
+  id: tmi-covid
   link: assets/Special_Issue_CFP_COVID-19.pdf
   deadline: "2020-08-01 23:59:59"
   timezone: UTC
