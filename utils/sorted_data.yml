@@ -1,27 +1,27 @@
 
 ---
 
-- name: RSNA abstract (TBD)
+- name: ICML rebuttal
   year: 2020
-  id: rsna2020
-  link: https://www.rsna.org/annual-meeting/abstract-submission
-  deadline: "2020-04-10 18:00:00"
+  id: icml2020-reb
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-04-21 04:59:00"
   timezone: US/Pacific
-  date: Nov 29 - Dec 4, 2020
-  place: McCormick Place, Chicago, Illinois
-  sub: MIC
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
 
-- name: TMI call for COVID-19 (1-year submission)
+- name: MICCAI review
   year: 2020
-  id: tmi-si
-  link: assets/Special_Issue_CFP_COVID-19.pdf
-  deadline: "2020-05-01 23:59:59"
-  timezone: UTC
-  date: Dec 15, 2020
-  place: TMI
-  sub: SI
-  note: "IEEE Transactions on Medical Imaging (IF - 7.816). First sets of paper: Apr
-    12."
+  id: miccai2020-review
+  link: https://www.miccai2020.org/
+  deadline: "2020-04-22 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
 
 - name: NeurIPS abstract
   year: 2020
@@ -53,6 +53,17 @@
   place: TMI
   sub: SI
   note: IEEE Transactions on Medical Imaging (IF - 7.816)
+
+- name: TMI call for COVID-19 (1-year submission)
+  year: 2020
+  id: tmi-covid
+  link: assets/Special_Issue_CFP_COVID-19.pdf
+  deadline: "2020-08-01 23:59:59"
+  timezone: UTC
+  date: Dec 15, 2020
+  place: TMI
+  sub: SI
+  note: "IEEE Transactions on Medical Imaging (IF - 7.816). First sets of paper: Apr12."
 
 - name: CVPR
   year: 2018
@@ -457,3 +468,13 @@
   place: San Miguel, Lima, Peru
   sub: MIC
   note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: RSNA abstract (TBD)
+  year: 2020
+  id: rsna2020
+  link: https://www.rsna.org/annual-meeting/abstract-submission
+  deadline: "2020-04-10 18:00:00"
+  timezone: US/Pacific
+  date: Nov 29 - Dec 4, 2020
+  place: McCormick Place, Chicago, Illinois
+  sub: MIC
