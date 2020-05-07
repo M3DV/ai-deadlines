@@ -1,33 +1,11 @@
 
 ---
 
-- name: ICML rebuttal
-  year: 2020
-  id: icml2020-reb
-  link: https://icml.cc/Conferences/2020
-  deadline: "2020-04-21 04:59:00"
-  timezone: US/Pacific
-  date: Jul 13 - 18, 2020
-  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
-  sub: ML
-  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
-
-- name: MICCAI review
-  year: 2020
-  id: miccai2020-review
-  link: https://www.miccai2020.org/
-  deadline: "2020-04-22 23:59:00"
-  timezone: US/Pacific
-  date: Oct 4 - 8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
-  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
-
 - name: NeurIPS abstract
   year: 2020
   id: neurips2020-abstract
   link: https://nips.cc/
-  deadline: "2020-05-05 13:00:00"
+  deadline: "2020-05-27 13:00:00"
   timezone: US/Pacific
   date: Sun Dec 6th through Sat the 12th, 2020
   place: Vancouver Convention Center, Vancouver CANADA
@@ -37,7 +15,7 @@
   year: 2020
   id: neurips2020
   link: https://nips.cc/
-  deadline: "2020-05-12 13:00:00"
+  deadline: "2020-06-03 13:00:00"
   timezone: US/Pacific
   date: Sun Dec 6th through Sat the 12th, 2020
   place: Vancouver Convention Center, Vancouver CANADA
@@ -54,11 +32,51 @@
   sub: SI
   note: IEEE Transactions on Medical Imaging (IF - 7.816)
 
+- name: AAAI (TBD)
+  year: 2021
+  id: aaai2021
+  link: TBD
+  deadline: "2020-09-05 11:59:00"
+  timezone: US/Hawaii
+  date: TBD
+  place: TBD
+  sub: ML
+
+- name: ICLR (TBD)
+  year: 2021
+  id: iclr21
+  link: http://iclr.cc/
+  deadline: "2020-09-25 17:59:59"
+  timezone: Africa/Nairobi
+  date: TBD
+  place: TBD
+  sub: ML
+
+- name: ISBI (TBD)
+  year: 2021
+  id: isbi21
+  link: TBD
+  deadline: "2020-10-08 23:59:59"
+  timezone: UTC
+  date: TBD
+  place: TBD
+  sub: MIC
+
+- name: CVPR (TBD)
+  year: 2021
+  id: cvpr21
+  link: http://cvpr2021.thecvf.com
+  deadline: "2020-11-15 23:59:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: CV
+
 - name: TMI call for COVID-19 (1-year submission)
   year: 2020
   id: tmi-covid
   link: assets/Special_Issue_CFP_COVID-19.pdf
-  deadline: "2020-08-01 23:59:59"
+  deadline: "2020-12-31 23:59:59"
   timezone: UTC
   date: Dec 15, 2020
   place: TMI
@@ -478,3 +496,25 @@
   date: Nov 29 - Dec 4, 2020
   place: McCormick Place, Chicago, Illinois
   sub: MIC
+
+- name: ICML rebuttal
+  year: 2020
+  id: icml2020-reb
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-04-21 04:59:00"
+  timezone: US/Pacific
+  date: Jul 13 - 18, 2020
+  place: Messe Wien Exhibition & Congress Center, Vienna, Austria
+  sub: ML
+  note: "<b>NOTE</b>: Abstract submission deadline: Jan. 31, 2020, 3:59 a.m."
+
+- name: MICCAI review
+  year: 2020
+  id: miccai2020-review
+  link: https://www.miccai2020.org/
+  deadline: "2020-04-22 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+  note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
