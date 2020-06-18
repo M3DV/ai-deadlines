@@ -1,42 +1,11 @@
 
 ---
 
-
-- name: MICCAI rebuttal
-  year: 2020
-  id: miccai2020-reb
-  link: https://www.miccai2020.org/
-  deadline: "2020-05-26 23:59:00"
-  timezone: US/Pacific
-  date: Oct 4 - 8, 2020
-  place: San Miguel, Lima, Peru
-  sub: MIC
-
-- name: NeurIPS abstract
-  year: 2020
-  id: neurips2020-abstract
-  link: https://nips.cc/
-  deadline: "2020-05-27 13:00:00"
-  timezone: US/Pacific
-  date: Sun Dec 6th through Sat the 12th, 2020
-  place: Vancouver Convention Center, Vancouver CANADA
-  sub: ML
-
-- name: NeurIPS
-  year: 2020
-  id: neurips2020
-  link: https://nips.cc/
-  deadline: "2020-06-03 13:00:00"
-  timezone: US/Pacific
-  date: Sun Dec 6th through Sat the 12th, 2020
-  place: Vancouver Convention Center, Vancouver CANADA
-  sub: ML
-
 - name: BMVC review
   year: 2020
   id: bmvc2020-review
   link: https://bmvc2020.github.io/
-  deadline: "2020-06-17 23:59:00"
+  deadline: "2020-06-18 23:59:00"
   timezone: US/Pacific
   date: 7th-11th September 2020
   place: TBD
@@ -539,3 +508,33 @@
   place: San Miguel, Lima, Peru
   sub: MIC
   note: "<b>NOTE</b>: Abstract submission deadline: 2020-03-03 23:59:00."
+
+- name: MICCAI rebuttal
+  year: 2020
+  id: miccai2020-reb
+  link: https://www.miccai2020.org/
+  deadline: "2020-05-26 23:59:00"
+  timezone: US/Pacific
+  date: Oct 4 - 8, 2020
+  place: San Miguel, Lima, Peru
+  sub: MIC
+
+- name: NeurIPS abstract
+  year: 2020
+  id: neurips2020-abstract
+  link: https://nips.cc/
+  deadline: "2020-05-27 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: NeurIPS
+  year: 2020
+  id: neurips2020
+  link: https://nips.cc/
+  deadline: "2020-06-03 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
