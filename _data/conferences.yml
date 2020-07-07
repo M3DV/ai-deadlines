@@ -11,6 +11,16 @@
   place: Hawaii
   sub: CV
 
+- name: NeurIPS review
+  year: 2020
+  id: neurips2020-review
+  link: https://nips.cc/
+  deadline: "2020-06-24 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
 - name: TMI call for Annotation-Efficient Deep Learning
   year: 2020
   id: tmi-dl
