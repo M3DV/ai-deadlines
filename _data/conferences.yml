@@ -52,6 +52,17 @@
   place: TBD
   sub: ML
 
+- name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
+  year: 2020
+  id: jbhi-mm
+  link: https://www.embs.org/jbhi/j-bhi-special-issue-on-multi-modal-computing-for-biomedical-intelligence-systems/
+  deadline: "2020-09-30 23:59:59"
+  timezone: US/Pacific
+  date: Mar 31, 2020
+  place: JBHI
+  sub: SI
+  note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
+
 - name: ISBI (TBD)
   year: 2021
   id: isbi21
