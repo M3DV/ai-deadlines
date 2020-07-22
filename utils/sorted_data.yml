@@ -1,6 +1,16 @@
 
 ---
 
+- name: NeurIPS review
+  year: 2020
+  id: neurips2020-review
+  link: https://nips.cc/
+  deadline: "2020-07-24 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
 - name: WACV review
   year: 2021
   id: wacv2021-review
@@ -22,6 +32,16 @@
   sub: SI
   note: IEEE Transactions on Medical Imaging (IF - 7.816)
 
+- name: ACCV review
+  year: 2020
+  id: accv2020-review
+  link: http://accv2020.kyoto/
+  deadline: "2020-08-15 23:59:00"
+  timezone: UTC
+  date: Nov 30 ~ Dec 4, 2020
+  place: Kyoto, Japan
+  sub: CV
+
 - name: AAAI (TBD)
   year: 2021
   id: aaai2021
@@ -41,6 +61,17 @@
   date: TBD
   place: TBD
   sub: ML
+
+- name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
+  year: 2021
+  id: jbhi-mm
+  link: https://www.embs.org/jbhi/j-bhi-special-issue-on-multi-modal-computing-for-biomedical-intelligence-systems/
+  deadline: "2020-09-30 23:59:59"
+  timezone: US/Pacific
+  date: Mar 31, 2021
+  place: JBHI
+  sub: SI
+  note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
 
 - name: ISBI (TBD)
   year: 2021

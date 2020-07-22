@@ -1,16 +1,6 @@
 
 ---
 
-- name: WACV review
-  year: 2021
-  id: wacv2021-review
-  link: http://wacv2021.thecvf.com/
-  deadline: "2020-07-27 23:59:59"
-  timezone: UTC
-  date: January 5 - 9
-  place: Hawaii
-  sub: CV
-
 - name: NeurIPS review
   year: 2020
   id: neurips2020-review
@@ -20,6 +10,16 @@
   date: Sun Dec 6th through Sat the 12th, 2020
   place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
+
+- name: WACV review
+  year: 2021
+  id: wacv2021-review
+  link: http://wacv2021.thecvf.com/
+  deadline: "2020-07-27 23:59:59"
+  timezone: UTC
+  date: January 5 - 9
+  place: Hawaii
+  sub: CV
 
 - name: TMI call for Annotation-Efficient Deep Learning
   year: 2020
@@ -31,6 +31,16 @@
   place: TMI
   sub: SI
   note: IEEE Transactions on Medical Imaging (IF - 7.816)
+
+- name: ACCV review
+  year: 2020
+  id: accv2020-review
+  link: http://accv2020.kyoto/
+  deadline: "2020-08-15 23:59:00"
+  timezone: UTC
+  date: Nov 30 ~ Dec 4, 2020
+  place: Kyoto, Japan
+  sub: CV
 
 - name: AAAI (TBD)
   year: 2021
