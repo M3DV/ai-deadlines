@@ -1,36 +1,15 @@
 
 ---
 
-- name: NeurIPS review
+- name: NeurIPS rebuttal
   year: 2020
-  id: neurips2020-review
+  id: neurips2020-rebuttal
   link: https://nips.cc/
-  deadline: "2020-07-24 13:00:00"
+  deadline: "2020-08-13 13:00:00"
   timezone: US/Pacific
   date: Sun Dec 6th through Sat the 12th, 2020
   place: Vancouver Convention Center, Vancouver CANADA
   sub: ML
-
-- name: WACV review
-  year: 2021
-  id: wacv2021-review
-  link: http://wacv2021.thecvf.com/
-  deadline: "2020-07-27 23:59:59"
-  timezone: UTC
-  date: January 5 - 9
-  place: Hawaii
-  sub: CV
-
-- name: TMI call for Annotation-Efficient Deep Learning
-  year: 2020
-  id: tmi-dl
-  link: http://www.embs.org/wp-content/uploads/2020/06/TMI-Special_issue-4.pdf
-  deadline: "2020-07-31 23:59:59"
-  timezone: US/Pacific
-  date: Dec 15, 2020
-  place: TMI
-  sub: SI
-  note: IEEE Transactions on Medical Imaging (IF - 7.816)
 
 - name: ACCV review
   year: 2020
@@ -52,16 +31,6 @@
   place: TBD
   sub: ML
 
-- name: ICLR (TBD)
-  year: 2021
-  id: iclr21
-  link: http://iclr.cc/
-  deadline: "2020-09-25 17:59:59"
-  timezone: Africa/Nairobi
-  date: TBD
-  place: TBD
-  sub: ML
-
 - name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
   year: 2021
   id: jbhi-mm
@@ -72,6 +41,17 @@
   place: JBHI
   sub: SI
   note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
+
+- name: ICLR
+  year: 2021
+  id: iclr21
+  link: http://iclr.cc/
+  deadline: "2020-10-02 08:00:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Sep 28, 2020. "
 
 - name: ISBI (TBD)
   year: 2021
@@ -579,3 +559,34 @@
   date: 7th-11th September 2020
   place: TBD
   sub: ML
+
+- name: NeurIPS review
+  year: 2020
+  id: neurips2020-review
+  link: https://nips.cc/
+  deadline: "2020-07-24 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: WACV review
+  year: 2021
+  id: wacv2021-review
+  link: http://wacv2021.thecvf.com/
+  deadline: "2020-07-27 23:59:59"
+  timezone: UTC
+  date: January 5 - 9
+  place: Hawaii
+  sub: CV
+
+- name: TMI call for Annotation-Efficient Deep Learning
+  year: 2020
+  id: tmi-dl
+  link: http://www.embs.org/wp-content/uploads/2020/06/TMI-Special_issue-4.pdf
+  deadline: "2020-07-31 23:59:59"
+  timezone: US/Pacific
+  date: Dec 15, 2020
+  place: TMI
+  sub: SI
+  note: IEEE Transactions on Medical Imaging (IF - 7.816)
