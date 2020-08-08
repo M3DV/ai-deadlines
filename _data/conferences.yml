@@ -53,14 +53,14 @@
   sub: ML
   note: "<b>NOTE</b>: Mandatory abstract deadline on Sep 28, 2020. "
 
-- name: ISBI (TBD)
+- name: ISBI
   year: 2021
   id: isbi21
-  link: TBD
-  deadline: "2020-10-08 23:59:59"
+  link: https://biomedicalimaging.org/2021/
+  deadline: "2020-10-15 23:59:59"
   timezone: UTC
-  date: TBD
-  place: TBD
+  date: April 13-16, 2021
+  place: Nice, France
   sub: MIC
 
 - name: CVPR (TBD)
