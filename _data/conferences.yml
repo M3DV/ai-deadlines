@@ -1,36 +1,6 @@
 
 ---
 
-- name: NeurIPS rebuttal
-  year: 2020
-  id: neurips2020-rebuttal
-  link: https://nips.cc/
-  deadline: "2020-08-13 13:00:00"
-  timezone: US/Pacific
-  date: Sun Dec 6th through Sat the 12th, 2020
-  place: Vancouver Convention Center, Vancouver CANADA
-  sub: ML
-
-- name: ACCV review
-  year: 2020
-  id: accv2020-review
-  link: http://accv2020.kyoto/
-  deadline: "2020-08-15 23:59:00"
-  timezone: UTC
-  date: Nov 30 ~ Dec 4, 2020
-  place: Kyoto, Japan
-  sub: CV
-
-- name: AAAI (TBD)
-  year: 2021
-  id: aaai2021
-  link: TBD
-  deadline: "2020-09-05 11:59:00"
-  timezone: US/Hawaii
-  date: TBD
-  place: TBD
-  sub: ML
-
 - name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
   year: 2021
   id: jbhi-mm
@@ -62,6 +32,17 @@
   date: April 13-16, 2021
   place: Nice, France
   sub: MIC
+
+- name: NeurIPS camera ready
+  year: 2020
+  id: neurips2020-final
+  link: https://nips.cc/
+  deadline: "2020-10-22 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA (Virtual)
+  sub: ML
+  note: paper+poster+code+video
 
 - name: CVPR (TBD)
   year: 2021
@@ -590,3 +571,33 @@
   place: TMI
   sub: SI
   note: IEEE Transactions on Medical Imaging (IF - 7.816)
+
+- name: NeurIPS rebuttal
+  year: 2020
+  id: neurips2020-rebuttal
+  link: https://nips.cc/
+  deadline: "2020-08-13 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA
+  sub: ML
+
+- name: ACCV review
+  year: 2020
+  id: accv2020-review
+  link: http://accv2020.kyoto/
+  deadline: "2020-08-15 23:59:00"
+  timezone: UTC
+  date: Nov 30 ~ Dec 4, 2020
+  place: Kyoto, Japan
+  sub: CV
+
+- name: AAAI (TBD)
+  year: 2021
+  id: aaai2021
+  link: TBD
+  deadline: "2020-09-05 11:59:00"
+  timezone: US/Hawaii
+  date: TBD
+  place: TBD
+  sub: ML
