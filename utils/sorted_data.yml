@@ -1,38 +1,6 @@
 
 ---
 
-- name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
-  year: 2021
-  id: jbhi-mm
-  link: https://www.embs.org/jbhi/j-bhi-special-issue-on-multi-modal-computing-for-biomedical-intelligence-systems/
-  deadline: "2020-09-30 23:59:59"
-  timezone: US/Pacific
-  date: Mar 31, 2021
-  place: JBHI
-  sub: SI
-  note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
-
-- name: ICLR
-  year: 2021
-  id: iclr21
-  link: http://iclr.cc/
-  deadline: "2020-10-02 08:00:00"
-  timezone: US/Pacific
-  date: TBD
-  place: TBD
-  sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline on Sep 28, 2020. "
-
-- name: ISBI
-  year: 2021
-  id: isbi21
-  link: https://biomedicalimaging.org/2021/
-  deadline: "2020-10-15 23:59:59"
-  timezone: UTC
-  date: April 13-16, 2021
-  place: Nice, France
-  sub: MIC
-
 - name: NeurIPS camera ready
   year: 2020
   id: neurips2020-final
@@ -44,26 +12,56 @@
   sub: ML
   note: paper+poster+code+video
 
-- name: CVPR (TBD)
+- name: ISBI
+  year: 2021
+  id: isbi21
+  link: https://biomedicalimaging.org/2021/
+  deadline: "2020-10-25 23:59:59"
+  timezone: UTC
+  date: April 13-16, 2021
+  place: Nice, France
+  sub: MIC
+
+- name: CVPR abstract
+  year: 2021
+  id: cvpr21-abstract
+  link: http://cvpr2021.thecvf.com
+  deadline: "2020-11-09 23:59:00"
+  timezone: US/Pacific
+  date: June 19 to June 25, 2021
+  place: Nashville, TN
+  sub: CV
+  note: "<b>Paper Registration Deadline</b>:\tNovember 9, 2020 (11:59PM Pacific Time)."
+
+- name: CVPR
   year: 2021
   id: cvpr21
   link: http://cvpr2021.thecvf.com
-  deadline: "2020-11-15 23:59:00"
+  deadline: "2020-11-16 23:59:00"
   timezone: US/Pacific
-  date: TBD
-  place: TBD
+  date: June 19 to June 25, 2021
+  place: Nashville, TN
   sub: CV
 
-- name: TMI call for COVID-19 (1-year submission)
-  year: 2020
-  id: tmi-covid
-  link: assets/Special_Issue_CFP_COVID-19.pdf
-  deadline: "2020-12-31 23:59:59"
+- name: IJCAI (TBD)
+  year: 2021
+  id: ijcai2021
+  link: tbd
+  deadline: "2021-01-21 11:59:00"
   timezone: UTC
-  date: Dec 15, 2020
-  place: TMI
-  sub: SI
-  note: "IEEE Transactions on Medical Imaging (IF - 7.816). First sets of paper: Apr12."
+  date: TBD
+  place: TBD
+  sub: ML
+
+- name: ICML (TBD)
+  year: 2021
+  id: icml2021
+  link: TBD
+  deadline: "2021-02-07 03:59:00"
+  timezone: America/Los_Angeles
+  date: TBD
+  place: TBD
+  sub: ML
 
 - name: CVPR
   year: 2018
@@ -601,3 +599,25 @@
   date: TBD
   place: TBD
   sub: ML
+
+- name: JBHI call for Multi-modal Computing for Biomedical Intelligence Systems
+  year: 2021
+  id: jbhi-mm
+  link: https://www.embs.org/jbhi/j-bhi-special-issue-on-multi-modal-computing-for-biomedical-intelligence-systems/
+  deadline: "2020-09-30 23:59:59"
+  timezone: US/Pacific
+  date: Mar 31, 2021
+  place: JBHI
+  sub: SI
+  note: IEEE Journal of Biomedical and Health Informatics (IF - 5.223)
+
+- name: ICLR
+  year: 2021
+  id: iclr21
+  link: http://iclr.cc/
+  deadline: "2020-10-02 08:00:00"
+  timezone: US/Pacific
+  date: TBD
+  place: TBD
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Sep 28, 2020. "
