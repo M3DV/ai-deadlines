@@ -1,23 +1,12 @@
 
 ---
 
-- name: NeurIPS camera ready
-  year: 2020
-  id: neurips2020-final
-  link: https://nips.cc/
-  deadline: "2020-10-22 13:00:00"
-  timezone: US/Pacific
-  date: Sun Dec 6th through Sat the 12th, 2020
-  place: Vancouver Convention Center, Vancouver CANADA (Virtual)
-  sub: ML
-  note: paper+poster+code+video
-
 - name: ISBI
   year: 2021
   id: isbi21
   link: https://biomedicalimaging.org/2021/
   deadline: "2020-10-25 23:59:59"
-  timezone: UTC
+  timezone: US/Pacific
   date: April 13-16, 2021
   place: Nice, France
   sub: MIC
@@ -621,3 +610,14 @@
   place: TBD
   sub: ML
   note: "<b>NOTE</b>: Mandatory abstract deadline on Sep 28, 2020. "
+
+- name: NeurIPS camera ready
+  year: 2020
+  id: neurips2020-final
+  link: https://nips.cc/
+  deadline: "2020-10-22 13:00:00"
+  timezone: US/Pacific
+  date: Sun Dec 6th through Sat the 12th, 2020
+  place: Vancouver Convention Center, Vancouver CANADA (Virtual)
+  sub: ML
+  note: paper+poster+code+video
