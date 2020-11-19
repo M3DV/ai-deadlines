@@ -3,7 +3,7 @@
 
 - name: IJCAI abstract
   year: 2021
-  id: ijcai2021-abstract
+  id: ijcai21-abstract
   link: https://ijcai-21.org/
   deadline: "2021-01-13 11:59:00"
   timezone: UTC
@@ -13,7 +13,7 @@
 
 - name: IJCAI
   year: 2021
-  id: ijcai2021
+  id: ijcai21
   link: https://ijcai-21.org/
   deadline: "2021-01-19 11:59:00"
   timezone: UTC
@@ -21,14 +21,24 @@
   place: Montreal, Canada
   sub: ML
 
-- name: ICML (TBD)
+- name: ICML abstract
   year: 2021
-  id: icml2021
-  link: TBD
-  deadline: "2021-02-07 03:59:00"
-  timezone: America/Los_Angeles
-  date: TBD
-  place: TBD
+  id: icml21-abstract
+  link: https://icml.cc/Conferences/2021
+  deadline: "2021-01-29 11:59:00"
+  timezone: UTC
+  date: July 18-24, 2021
+  place: Vienna, Austria
+  sub: ML
+
+- name: ICML
+  year: 2021
+  id: icml21
+  link: https://icml.cc/Conferences/2021
+  deadline: "2021-02-05 11:59:00"
+  timezone: UTC
+  date: July 18-24, 2021
+  place: Vienna, Austria
   sub: ML
 
 - name: CVPR
