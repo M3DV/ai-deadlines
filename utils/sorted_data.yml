@@ -41,6 +41,26 @@
   place: Vienna, Austria
   sub: ML
 
+- name: MICCAI abstract
+  year: 2021
+  id: miccai21-abstract
+  link: https://miccai2021.org/
+  deadline: "2021-02-09 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: MICCAI
+  year: 2021
+  id: miccai21
+  link: https://miccai2021.org/
+  deadline: "2021-03-03 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
 - name: ICCV abstract
   year: 2021
   id: iccv21-abstract
