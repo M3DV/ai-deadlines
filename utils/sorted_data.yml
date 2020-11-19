@@ -1,45 +1,24 @@
 
 ---
 
-- name: ISBI
+- name: IJCAI abstract
   year: 2021
-  id: isbi21
-  link: https://biomedicalimaging.org/2021/
-  deadline: "2020-10-25 23:59:59"
-  timezone: US/Pacific
-  date: April 13-16, 2021
-  place: Nice, France
-  sub: MIC
+  id: ijcai2021-abstract
+  link: https://ijcai-21.org/
+  deadline: "2021-01-13 11:59:00"
+  timezone: UTC
+  date: 21st -26th August, 2021
+  place: Montreal, Canada
+  sub: ML
 
-- name: CVPR abstract
-  year: 2021
-  id: cvpr21-abstract
-  link: http://cvpr2021.thecvf.com
-  deadline: "2020-11-09 23:59:00"
-  timezone: US/Pacific
-  date: June 19 to June 25, 2021
-  place: Nashville, TN
-  sub: CV
-  note: "<b>Paper Registration Deadline</b>:\tNovember 9, 2020 (11:59PM Pacific Time)."
-
-- name: CVPR
-  year: 2021
-  id: cvpr21
-  link: http://cvpr2021.thecvf.com
-  deadline: "2020-11-16 23:59:00"
-  timezone: US/Pacific
-  date: June 19 to June 25, 2021
-  place: Nashville, TN
-  sub: CV
-
-- name: IJCAI (TBD)
+- name: IJCAI
   year: 2021
   id: ijcai2021
-  link: tbd
-  deadline: "2021-01-21 11:59:00"
+  link: https://ijcai-21.org/
+  deadline: "2021-01-19 11:59:00"
   timezone: UTC
-  date: TBD
-  place: TBD
+  date: 21st -26th August, 2021
+  place: Montreal, Canada
   sub: ML
 
 - name: ICML (TBD)
@@ -621,3 +600,34 @@
   place: Vancouver Convention Center, Vancouver CANADA (Virtual)
   sub: ML
   note: paper+poster+code+video
+
+- name: ISBI
+  year: 2021
+  id: isbi21
+  link: https://biomedicalimaging.org/2021/
+  deadline: "2020-10-25 23:59:59"
+  timezone: US/Pacific
+  date: April 13-16, 2021
+  place: Nice, France
+  sub: MIC
+
+- name: CVPR abstract
+  year: 2021
+  id: cvpr21-abstract
+  link: http://cvpr2021.thecvf.com
+  deadline: "2020-11-09 23:59:00"
+  timezone: US/Pacific
+  date: June 19 to June 25, 2021
+  place: Nashville, TN
+  sub: CV
+  note: "<b>Paper Registration Deadline</b>:\tNovember 9, 2020 (11:59PM Pacific Time)."
+
+- name: CVPR
+  year: 2021
+  id: cvpr21
+  link: http://cvpr2021.thecvf.com
+  deadline: "2020-11-16 23:59:00"
+  timezone: US/Pacific
+  date: June 19 to June 25, 2021
+  place: Nashville, TN
+  sub: CV
