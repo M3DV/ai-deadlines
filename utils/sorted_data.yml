@@ -1,45 +1,27 @@
 
 ---
 
-- name: MICCAI
+- name: NeurIPS abstract
   year: 2021
-  id: miccai21
-  link: https://miccai2021.org/
-  deadline: "2021-03-03 23:59:00"
+  id: neurips21-abs
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-05-19 20:00:00"
   timezone: UTC
-  date: September 27 - October 1, 2021
-  place: trasbourg, FRANCE
-  sub: MIC
-
-- name: ICCV abstract
-  year: 2021
-  id: iccv21-abstract
-  link: http://iccv2021.thecvf.com/
-  deadline: "2021-03-10 23:59:00"
-  timezone: America/Los_Angeles
-  date: October 11-17, 2021
-  place: Montreal, Canada
-  sub: CV
-
-- name: ICML review
-  year: 2021
-  id: icml2020-review
-  link: https://icml.cc/
-  deadline: "2021-03-13 23:59:00"
-  timezone: US/Pacific
-  date: July 18-24, 2021
-  place: Virtual
+  date: December 5-14, 2021
+  place: Online
   sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
 
-- name: ICCV
+- name: NeurIPS
   year: 2021
-  id: iccv21
-  link: http://iccv2021.thecvf.com/
-  deadline: "2021-03-17 23:59:00"
-  timezone: America/Los_Angeles
-  date: October 11-17, 2021
-  place: Montreal, Canada
-  sub: CV
+  id: neurips21
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-05-26 20:00:00"
+  timezone: UTC
+  date: December 5-14, 2021
+  place: Online
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
 
 - name: CVPR
   year: 2018
@@ -691,3 +673,43 @@
   date: September 27 - October 1, 2021
   place: trasbourg, FRANCE
   sub: MIC
+
+- name: MICCAI
+  year: 2021
+  id: miccai21
+  link: https://miccai2021.org/
+  deadline: "2021-03-03 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: ICCV abstract
+  year: 2021
+  id: iccv21-abstract
+  link: http://iccv2021.thecvf.com/
+  deadline: "2021-03-10 23:59:00"
+  timezone: America/Los_Angeles
+  date: October 11-17, 2021
+  place: Montreal, Canada
+  sub: CV
+
+- name: ICML review
+  year: 2021
+  id: icml2020-review
+  link: https://icml.cc/
+  deadline: "2021-03-13 23:59:00"
+  timezone: US/Pacific
+  date: July 18-24, 2021
+  place: Virtual
+  sub: ML
+
+- name: ICCV
+  year: 2021
+  id: iccv21
+  link: http://iccv2021.thecvf.com/
+  deadline: "2021-03-17 23:59:00"
+  timezone: America/Los_Angeles
+  date: October 11-17, 2021
+  place: Montreal, Canada
+  sub: CV
