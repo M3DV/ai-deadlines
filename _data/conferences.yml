@@ -1,21 +1,21 @@
 
 ---
 
-- name: MICCAI review
+- name: MICCAI rebuttal
   year: 2021
-  id: miccai21-review
+  id: miccai21-rebuttal
   link: https://miccai2021.org/
-  deadline: "2021-04-20 23:59:00"
-  timezone: UTC
+  deadline: "2021-05-21 23:59:00"
+  timezone: US/Pacific
   date: September 27 - October 1, 2021
   place: trasbourg, FRANCE
   sub: MIC
 
-- name: NeurIPS abstract
+- name: NeurIPS
   year: 2021
-  id: neurips21-abs
+  id: neurips21
   link: https://neurips.cc/Conferences/2021/
-  deadline: "2021-05-19 20:00:00"
+  deadline: "2021-05-26 20:00:00"
   timezone: UTC
   date: December 5-14, 2021
   place: Online
@@ -31,17 +31,6 @@
   date: October 11-17, 2021
   place: Montreal, Canada
   sub: CV
-
-- name: NeurIPS
-  year: 2021
-  id: neurips21
-  link: https://neurips.cc/Conferences/2021/
-  deadline: "2021-05-26 20:00:00"
-  timezone: UTC
-  date: December 5-14, 2021
-  place: Online
-  sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
 
 - name: CVPR
   year: 2018
@@ -733,3 +722,24 @@
   date: October 11-17, 2021
   place: Montreal, Canada
   sub: CV
+
+- name: MICCAI review
+  year: 2021
+  id: miccai21-review
+  link: https://miccai2021.org/
+  deadline: "2021-04-20 23:59:00"
+  timezone: UTC
+  date: September 27 - October 1, 2021
+  place: trasbourg, FRANCE
+  sub: MIC
+
+- name: NeurIPS abstract
+  year: 2021
+  id: neurips21-abs
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-05-19 20:00:00"
+  timezone: UTC
+  date: December 5-14, 2021
+  place: Online
+  sub: ML
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021"
