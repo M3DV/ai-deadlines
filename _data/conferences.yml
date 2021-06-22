@@ -1,6 +1,16 @@
 
 ---
 
+- name: NeurIPS review
+  year: 2021
+  id: neurips21-review
+  link: https://neurips.cc/Conferences/2021/
+  deadline: "2021-07-16 20:00:00"
+  timezone: UTC
+  date: December 5-14, 2021
+  place: Online
+  sub: ML
+
 - name: AAAI (TBD)
   year: 2022
   id: aaai22
